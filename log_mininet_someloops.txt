@@ -1,0 +1,18 @@
+*** Configuring hosts
+h1 h2 h3 h4 h5 h6 
+*** Starting controller
+c0 
+*** Starting 6 switches
+s1 s2 s3 s4 s5 s6 ...
+Aguardando inicialização do controlador...
+Enviando Gratuitous ARP de todos os hosts para descoberta pelo Ryu...
+*** Starting CLI:
+mininet> *** Stopping 1 controllers
+c0 
+*** Stopping 14 links
+..............
+*** Stopping 6 switches
+s1 s2 s3 s4 s5 s6 
+*** Stopping 6 hosts
+h1 h2 h3 h4 h5 h6 
+*** Done

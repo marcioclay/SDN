@@ -1,0 +1,10 @@
+*** Configuring hosts
+h1 h2 h3 
+*** Starting controller
+c0 
+*** Starting 3 switches
+s1 s2 s3 ...
+Aguardando inicialização do controlador...
+Enviando Gratuitous ARP de todos os hosts para descoberta pelo Ryu...
+*** Starting CLI:
+mininet> 

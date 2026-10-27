@@ -1,0 +1,24 @@
+loading app topo_discover.py
+loading app ryu.topology.switches
+loading app ryu.controller.ofp_handler
+instantiating app topo_discover.py of TopoDiscover
+instantiating app ryu.topology.switches of Switches
+instantiating app ryu.controller.ofp_handler of OFPHandler
+Switches mapeados atualmente: [1, 3, 2]
+Switches mapeados atualmente: [1, 3, 2]
+Switches mapeados atualmente: [1, 3, 2]
+Total de enlaces descobertos: 6
+Total de enlaces descobertos: 6
+Total de enlaces descobertos: 6
+Total de enlaces descobertos: 6
+Total de enlaces descobertos: 6
+Total de enlaces descobertos: 6
+Switches mapeados atualmente: [1]
+Switches mapeados atualmente: [1, 2]
+Total de enlaces descobertos: 1
+Total de enlaces descobertos: 2
+Switches mapeados atualmente: [1, 2, 3]
+Total de enlaces descobertos: 4
+Total de enlaces descobertos: 6
+Total de enlaces descobertos: 6
+Total de enlaces descobertos: 6
