@@ -1,0 +1,3 @@
+# Descoberta de Topologias de Rede em SDN (Mininet & Ryu)
+
+Este projeto implementa a leitura, instanciação e descoberta dinâmica de topologias de rede arbitrárias utilizando **Mininet** e o controlador **Ryu** sob o protocolo **OpenFlow 1.3**. A aplicação realiza o *parsing* de arquivos de texto em formato de lista de arestas para construir a topologia no Mininet, utiliza a API de topologia do Ryu (`get_switch` e `get_link` ativadas via `--observe-links`) para mapear switches e enlaces através de pacotes, e intercepta mensagens *Gratuitous ARP* (*Packet-In*) enviadas pelos hosts para mapear dinamicamente os endereços IP, MAC e portas de conexão de cada servidor na rede.
